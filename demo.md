@@ -6,4 +6,3 @@ This is the third.
 
 And a final fourth line. This is it.
 
-This is the stash example.
